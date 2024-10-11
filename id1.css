@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 450px;
+    width: 350px;
+    margin: 20px;
+    box-shadow: 0px 3px 10px rgb(0, 0, 0, 0.5);
+    position: absolute;
+}
+
+.s1
+{
+    height: 200px;
+    width: 350px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgba(255, 98, 0, 0.847);
+    border-radius: 0 0 150px 150px; 
+}
+
+.d1{
+    display: inline-block;
+    position: relative;
+    right: 20px;
+}
+
+.d1 img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 40px;
+    margin-right: 310px;
+}
+
+.d1 p{
+    font-size: 26px;
+    position: relative;
+    left: 50px;
+    bottom: 15px;
+}
+.d1 #p1{
+    font-size: 12px;
+    font-weight: 100;
+    color: white;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 110px;
+    left: 55px;
+}
+
+.s2{
+    height: 100px;
+    width: 180px;
+    margin: 20px 0px 0px 50px;
+    border-radius: 50%;
+}
+
+
+.s3{
+    height: 20px;
+    margin: 0px 20px 10px 30px;
+    padding-left: 10px;
+    position: relative;
+    bottom: 40px;
+}
+
+
+.s4{
+    height: 30px;
+    margin: 10px 20px 10px 30px;
+    padding-left: 10px;
+    position: relative;
+    bottom: 40px;
+}
+
+.s5{
+    height: 30px;
+    margin: 10px 20px 10px 30px;
+    padding-left: 10px;
+    position: relative;
+    bottom: 50px;
+}
+
+.s6{
+    height: 30px;
+    margin: 10px 20px 10px 30px;
+    padding-left: 10px;
+    position: relative;
+    bottom: 60px;
+}
+
+.s7{
+    height: 40px;
+    background-color: rgba(255, 98, 0, 0.847);
+    position: relative;
+    bottom: 60px;
+    border-radius: 5px 5px 0 0;
+}
+
+
+.s7 p{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 10px;
+}
